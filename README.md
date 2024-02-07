@@ -17,5 +17,5 @@ Here I just save some links to my Web-Statistics for my various projects. Just L
    * Counter: [fastcounter.de/stats/40950](https://www.fastcounter.de/stats/40950/dashboard)
 
 ### Site Pat Comunity Project
-   * URL: [Site Pet](https://derdere.github.io/site-pet/)
+   * URL: [derdere.github.io/site-pet](https://derdere.github.io/site-pet/)
    * Counter: [fastcounter.de/stats/42122](https://www.imcounter.com/stats/42122/dashboard)
